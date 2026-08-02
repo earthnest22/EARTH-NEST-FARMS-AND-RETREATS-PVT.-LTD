@@ -1,0 +1,15 @@
+earth-nest/
+│── index.html
+│── about.html
+│── services.html
+│── gallery.html
+│── projects.html
+│── contact.html
+│
+├── css/
+│     style.css
+│
+├── js/
+│     script.js
+│
+└── images/
