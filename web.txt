@@ -1,0 +1,22 @@
+earth-nest-website/
+│
+├── index.html
+├── about.html
+├── services.html
+├── gallery.html
+├── projects.html
+├── contact.html
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animation.css
+│
+├── js/
+│   ├── script.js
+│   ├── gallery.js
+│   └── contact.js
+│
+├── images/
+│
+└── README.md
