@@ -1,4 +1,4 @@
-earth-nest-website/
+earth-nest/
 │
 ├── index.html
 ├── about.html
@@ -7,16 +7,25 @@ earth-nest-website/
 ├── projects.html
 ├── contact.html
 │
-├── css/
-│   ├── style.css
-│   ├── responsive.css
-│   └── animation.css
-│
-├── js/
-│   ├── script.js
-│   ├── gallery.js
-│   └── contact.js
-│
-├── images/
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── responsive.css
+│   │   └── animations.css
+│   │
+│   ├── js/
+│   │   ├── script.js
+│   │   ├── gallery.js
+│   │   └── contact.js
+│   │
+│   ├── images/
+│   │   ├── hero/
+│   │   ├── coffee/
+│   │   ├── nursery/
+│   │   ├── cottages/
+│   │   ├── mountains/
+│   │   └── logo/
+│   │
+│   └── icons/
 │
 └── README.md
